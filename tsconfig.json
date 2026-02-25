@@ -4,9 +4,6 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/auth"
-    },
-    {
       "path": "./libs/core-ui"
     },
     {
@@ -14,9 +11,6 @@
     },
     {
       "path": "./apps/checkmate-ui"
-    },
-    {
-      "path": "./apps/checkmate-apis-e2e"
     },
     {
       "path": "./apps/checkmate-apis"
